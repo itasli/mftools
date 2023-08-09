@@ -1,2 +1,2 @@
-# matrix-factorization
-FACTORISATION DE MATRICES APPLIQUÉES AUX SYSTÈMES DE RECOMMANDATION
+# mftools
+Librairie implémentant deux algorithmes : FunkSVD & PMF (Probabilistic Matrix Factorization) de factorisations de matrices appliquées aux systèmes de recommandation
